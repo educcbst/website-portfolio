@@ -1,0 +1,28 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name{
+
+    color: orange;
+}
+
+.half{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: justify;
+
+
+}
+
+.half img{
+
+    width: 100%;
+}
